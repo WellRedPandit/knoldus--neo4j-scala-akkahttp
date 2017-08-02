@@ -1,1 +1,1 @@
-# knoldus--neo4j-scala-akkahttp
+This is a copy of https://github.com/knoldus/neo4j-scala-akkahttp.g8 with all software upgraded to the latest and activator removed as it's being retired anyway. Tests pass.
